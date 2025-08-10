@@ -1,4 +1,4 @@
-package com.algaworks.algasensors.device_management;
+package com.algaworks.algasensors.device.management;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

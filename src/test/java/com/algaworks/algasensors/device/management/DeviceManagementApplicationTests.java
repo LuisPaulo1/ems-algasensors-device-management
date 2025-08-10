@@ -1,4 +1,4 @@
-package com.algaworks.algasensors.device_management;
+package com.algaworks.algasensors.device.management;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

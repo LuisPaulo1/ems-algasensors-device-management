@@ -1,4 +1,4 @@
-package com.algaworks.algasensors.device_management.api.model;
+package com.algaworks.algasensors.device.management.api.model;
 
 import lombok.Data;
 

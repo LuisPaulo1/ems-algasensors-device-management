@@ -1,4 +1,4 @@
-package com.algaworks.algasensors.device_management.domain.model;
+package com.algaworks.algasensors.device.management.domain.model;
 
 import jakarta.persistence.AttributeOverride;
 import jakarta.persistence.Column;
